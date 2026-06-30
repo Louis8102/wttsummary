@@ -1,0 +1,14 @@
+v 0.2.9
+d wttsummary: narrative summaries for wtttable results
+d
+d wttsummary reads results datasets produced by wtttable and creates
+d conservative brief-style and academic-style summaries with block-level tables.
+d
+d Author: Hao Ma
+d
+f wttsummary.ado
+f wttsummary.sthlp
+f wttsummary_example.do
+f example_results.dta
+f README.md
+f LICENSE

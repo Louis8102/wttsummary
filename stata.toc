@@ -1,0 +1,3 @@
+v 0.1.0
+d User-written Stata packages
+p wttsummary Narrative summaries for wtttable results
